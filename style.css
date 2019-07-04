@@ -1,0 +1,18 @@
+/*header*/
+
+
+.headerStyle{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.spacer{
+    padding: 50px 0;
+}
+.linkStyle{
+    color: #777777;
+
+}
